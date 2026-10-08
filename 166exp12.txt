@@ -1,0 +1,26 @@
+USE CASE DIAGRAM-
+    https://drive.google.com/file/d/19ZpmwknLfa5l75IjHcMYckR3WLuXV3j7/view?usp=drivesdk
+
+ACTIVITY DIAGRAM-
+    https://drive.google.com/file/d/1L07bycdChDSIPfEEOpMv7Os8i8ovExst/view?usp=drivesdk
+
+CLASS DIAGRAM-
+    https://drive.google.com/file/d/1mzqckqEeOMj50w46ykjEg_3PE1XWvyhI/view?usp=drivesdk
+
+OBJECT DIAGRAM-
+    https://drive.google.com/file/d/14iHgQouo9OxnQtf_AwmgP8wAzFhLrJSV/view?usp=drivesdk
+
+SEQUENCE DIAGRAM-
+    https://drive.google.com/file/d/1m8t03LXn5LaT4fdTXg630V03fIjafuRk/view?usp=drivesdk
+
+COLLABORATION DIAGRAM-
+    https://drive.google.com/file/d/1Exdtc6udGz-rCla5-5rmHnHVFwyBJz6Y/view?usp=drivesdk
+
+COMPONENT DIAGRAM-
+    https://drive.google.com/file/d/1O3ubyt0DPQsYWf_OKXVtN9AV_mw5zPyN/view?usp=drivesdk
+
+DEPLOYMENT DIAGRAM-
+    https://drive.google.com/file/d/1jpSBkeYn3KyLVebVhTpl6soAAU9hrw9d/view?usp=drivesdk
+
+
+
